@@ -1,5 +1,5 @@
 # ton-labels
-Public dataset of labelled TON blockchain addresses
+Public dataset of labelled TON blockchain addresses opq0pqo 
 
 After each commit to the main branch artefacts are compiled and pushed:
 * To [the build branch](https://github.com/shuva10v/ton-labels/blob/build/assets.json) ([json](https://github.com/shuva10v/ton-labels/blob/build/assets.json), [csv](https://github.com/shuva10v/ton-labels/blob/build/assets.csv)) - may be useful for manual checking addresses
